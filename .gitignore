@@ -163,3 +163,8 @@ cython_debug/
 
 # Ignore keys 
 MyAPI_KEY.txt
+
+# Ignore DIRs 
+Scripts/
+etc/jupyter/
+share/
